@@ -1,0 +1,35 @@
+.navbar{
+    border: 1px solid rgb(107, 104, 104);
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    justify-content: space-between;
+    margin: auto;
+}
+.nav>a{
+    color: rgb(99, 98, 98);
+}
+.nav_nav{
+   display: flex;
+    width: 37%;
+    justify-content: center;
+    justify-content: space-between;
+    margin: auto;
+}
+.nav_nav>a>h1{
+    font-size: 30px;
+    color: rgb(114, 114, 114);
+    margin-top: 10px;
+    font-weight:400;
+}
+.nav_nav>a>img{
+    margin-top: 10px;
+}
+.nav1{
+    background-color: #A00606;
+}
