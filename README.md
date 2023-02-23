@@ -8,6 +8,9 @@ India Today is a 24-hour English language television network based in Noida, Utt
 
 # Deploy Link project Here:
 
+https://candid-dasik-c910de.netlify.app/
+
+<br>
 
 
 # Steps to browse the project:
