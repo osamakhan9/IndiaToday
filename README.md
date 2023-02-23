@@ -10,10 +10,11 @@ India Today is a 24-hour English language television network based in Noida, Utt
 # Steps to browse the project:
 
 First you clone or download this project from here.
-
+<br>
 first--- npm install
+<br>
 secound---- npm run start
-
+<br>
 
 Secound data db.json here live server 
 1- npm start
